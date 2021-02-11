@@ -29,4 +29,24 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 
 <h3>Definindo Script e a dependência do SQFLite</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/6cbf5f98fda01aeb91fde83c6b92f343d0f009c8'>aqui</a> </p> 
-<p>Link videoaula: </p>
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/6cbf5f98fda01aeb91fde83c6b92f343d0f009c8'>aqui</a> </p> 
+<p>Link videoaula: https://www.youtube.com/watch?v=aLWY7vOv-kw</p>
+<hr/>
+
+<h3>Lista de Contatos com SQFLite</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/6cbf5f98fda01aeb91fde83c6b92f343d0f009c8'>aqui</a> </p> 
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/2a137a0a1aed9bf8dad5793a5d30c291a4f0411f'>aqui</a> </p> 
+<p>Link videoaula: https://www.youtube.com/watch?v=mRrHlC2m7iE </p>
+
+<hr/>
+<h3>Criando Entidade</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/2a137a0a1aed9bf8dad5793a5d30c291a4f0411f'>aqui</a> </p> 
+<p>Acesse o projeto final <a href=''>aqui</a> </p> 
+<p>Link videoaula:  </p>
+
+
+
+
+
+
+
