@@ -1,6 +1,5 @@
-import 'package:agenda_crud/app/database/script.dart';
+import 'package:agenda_crud/app/database/sqlite/connection.dart';
 import 'package:flutter/material.dart';
-import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
 import '../my_app.dart';
@@ -8,17 +7,7 @@ import '../my_app.dart';
 class ContactList  extends StatelessWidget {
 
   Future<List<Map<String,dynamic>>> _buscar() async{
-    String path = join( await getDatabasesPath(), 'banco');
-    Database db = await openDatabase(
-      path, 
-      version: 1, 
-      onCreate: (db, v){
-        db.execute(createTable);
-        db.execute(insert1);
-        db.execute(insert2);
-        db.execute(insert3);
-      }
-      );
+    Database db = await Connection.get();
       return db.query('contact');
   }
 
