@@ -53,7 +53,13 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <hr/>
 <h3>Data Access Object</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/4098af7155a9e6bc5a1c105d18c80ec424f588a4'>aqui</a> </p> 
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/91d0f55ab2ed5c8b4d40a72251d63975c27197b9'>aqui</a> </p> 
+<p>Link videoaula: https://www.youtube.com/watch?v=mCoqJPal7Zk</p>
 
+<hr/>
+<h3>Injeção de Dependência</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/91d0f55ab2ed5c8b4d40a72251d63975c27197b9'>aqui</a> </p> 
+<p>Link videoaula: https://youtu.be/pgM7i0dGtZQ</p>
 
 
 
