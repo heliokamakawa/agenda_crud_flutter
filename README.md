@@ -59,6 +59,12 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <hr/>
 <h3>Injeção de Dependência</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/91d0f55ab2ed5c8b4d40a72251d63975c27197b9'>aqui</a> </p> 
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/1f2711bed8b56d13e49ccf21797e19745e7e6c22'>aqui</a> </p> 
+<p>Link videoaula: https://youtu.be/pgM7i0dGtZQ</p>
+
+<hr/>
+<h3>Difernça entre DAO e Domanin Services</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/1f2711bed8b56d13e49ccf21797e19745e7e6c22'>aqui</a> </p> 
 <p>Link videoaula: https://youtu.be/pgM7i0dGtZQ</p>
 
 
