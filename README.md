@@ -65,6 +65,13 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <hr/>
 <h3>Difernça entre DAO e Domanin Services</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/1f2711bed8b56d13e49ccf21797e19745e7e6c22'>aqui</a> </p> 
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/abc5203f51807920e9c57f0a4a9a284dd3fc6e79'>aqui</a> </p> 
+<p>Link videoaula: https://youtu.be/pgM7i0dGtZQ</p>
+
+<hr/>
+<h3>Gestão de Estado com MobX</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/abc5203f51807920e9c57f0a4a9a284dd3fc6e79'>aqui</a> </p> 
+<p>Acesse o projeto final <a href=>aqui</a> </p> 
 <p>Link videoaula: https://youtu.be/pgM7i0dGtZQ</p>
 
 
