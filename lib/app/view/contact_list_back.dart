@@ -1,5 +1,3 @@
-
-
 import 'package:agenda_crud/app/domain/entities/contact.dart';
 import 'package:agenda_crud/app/domain/services/contact_service.dart';
 import 'package:agenda_crud/app/my_app.dart';
