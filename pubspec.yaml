@@ -28,6 +28,7 @@ dependencies:
   path: 
   mobx: 1.2.1+4
   flutter_mobx: 1.1.0+2
+  mask_text_input_formatter: ^1.2.1
 
 
 

@@ -77,6 +77,15 @@ Curso Flutter - CRUD completo com SQLITE/mobx adotando entidade/serviço/reposit
 <hr/>
 <h3>Finalizando Lista de Contatos</h3> 
 <p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/41ffb9d6f5c7f49769ad29704f17f70ec777d42c'>aqui</a> </p> 
+<p>Acesse o projeto final <a href='https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5'>aqui</a> </p> 
+<p>Link videoaula: https://www.youtube.com/watch?v=4VRYaBH2w68</p>
+
+<hr/>
+<h3>Definindo Formulário</h3> 
+<p>Acesse o projeto inicial <a href='https://github.com/heliokamakawa/agenda_crud/tree/d1bbea66f115cb80b51fd0ee106be5c63ee086f5'>aqui</a> </p> 
+<p>Acesse o projeto final <a href=>aqui</a> </p> 
+<p>Link videoaula: </p>
+
 
 
 
