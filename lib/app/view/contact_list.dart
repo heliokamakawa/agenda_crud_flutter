@@ -3,8 +3,6 @@ import 'package:agenda_crud/app/view/contact_list_back.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 
-import '../my_app.dart';
-
 class ContactList extends StatelessWidget {
   final _back = ContactListBack();
 
@@ -55,7 +53,7 @@ class ContactList extends StatelessWidget {
             IconButton(
                 icon: Icon(Icons.add),
                 onPressed: () {
-                  Navigator.of(context).pushNamed(MyApp.CONTACT_FORM);
+                  _back.goToForm(context);
                 })
           ],
         ),
