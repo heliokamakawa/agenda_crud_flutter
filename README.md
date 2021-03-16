@@ -98,7 +98,16 @@ Link videoaula: https://www.youtube.com/watch?v=lReb_hOfjLE
 <hr/>
 <h3>Finalizando o Formulário</h3> 
 Projeto inicial:https://github.com/heliokamakawa/agenda_crud/tree/95152cbacdb64e48975810bdf05883f5235182ab <br>
-Projeto final:  <br>
+Projeto final:  https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3<br>
+aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
+Link videoaula:  https://www.youtube.com/watch?v=t3ZGldO2YrE
+
+<hr/>
+<h3>Corrigindo erros</h3> 
+Projeto inicial:
+https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3 <br>
+Projeto final:  
+<br>
 aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
 Link videoaula:  
 

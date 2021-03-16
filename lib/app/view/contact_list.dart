@@ -1,4 +1,5 @@
 import 'package:agenda_crud/app/domain/entities/contact.dart';
+import 'package:agenda_crud/app/my_app.dart';
 import 'package:agenda_crud/app/view/contact_list_back.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
@@ -72,6 +73,9 @@ class ContactList extends StatelessWidget {
                       return ListTile(
                         leading: circleAvatar(contato.urlAvatar),
                         title: Text(contato.nome),
+                        onTap: (){
+                          _back.goToDetails(context);
+                        },
                         subtitle: Text(contato.telefone),
                         trailing: Container(
                           width: 100,
