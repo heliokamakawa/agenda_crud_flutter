@@ -107,7 +107,15 @@ Link videoaula:  https://www.youtube.com/watch?v=t3ZGldO2YrE
 Projeto inicial:
 https://github.com/heliokamakawa/agenda_crud/tree/805b99d96a5d0f38bdd37d1eabb411f10ecc4ce3 <br>
 Projeto final:  
-<br>
+https://github.com/heliokamakawa/agenda_crud/tree/bed0228d2506584936a5e73c7d30be58dd5b96cd<br>
+aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
+Link videoaula:  https://www.youtube.com/watch?v=sZBJun7oU-o
+
+<hr/>
+<h3>Detalhes do Contato</h3> 
+Projeto inicial:
+https://github.com/heliokamakawa/agenda_crud/tree/bed0228d2506584936a5e73c7d30be58dd5b96cd<br>
+Projeto final:  
 aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
 Link videoaula:  
 

@@ -1,5 +1,4 @@
 import 'package:agenda_crud/app/domain/entities/contact.dart';
-import 'package:agenda_crud/app/my_app.dart';
 import 'package:agenda_crud/app/view/contact_list_back.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
@@ -74,7 +73,7 @@ class ContactList extends StatelessWidget {
                         leading: circleAvatar(contato.urlAvatar),
                         title: Text(contato.nome),
                         onTap: (){
-                          _back.goToDetails(context);
+                          _back.goToDetails(context, contato);
                         },
                         subtitle: Text(contato.telefone),
                         trailing: Container(
@@ -82,7 +81,7 @@ class ContactList extends StatelessWidget {
                           child: Row(
                             children: [
                               iconEditButton((){
-                                _back.goToForm(context, contato);
+                                _back.goToForm(context);
                               }),
                               iconRemoveButton(context, (){
                                 _back.remove(contato.id);

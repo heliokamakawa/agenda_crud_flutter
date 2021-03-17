@@ -31,8 +31,8 @@ abstract class _ContactListBack with Store{
     Navigator.of(context).pushNamed(MyApp.CONTACT_FORM, arguments: contact).then(refreshList);
   }
 
-  goToDetails(BuildContext context){
-    Navigator.of(context).pushNamed(MyApp.CONTACT_DETAILS);
+  goToDetails(BuildContext context, Contact contact){
+    Navigator.of(context).pushNamed(MyApp.CONTACT_DETAILS, arguments: contact);
   }
 
   //excluir
