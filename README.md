@@ -116,8 +116,20 @@ Link videoaula:  https://www.youtube.com/watch?v=sZBJun7oU-o
 Projeto inicial:
 https://github.com/heliokamakawa/agenda_crud/tree/bed0228d2506584936a5e73c7d30be58dd5b96cd<br>
 Projeto final:  
+https://github.com/heliokamakawa/agenda_crud/tree/fa95a4da4b48410243bc8955c9c0fa56f3a74237<br>
+aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
+Link videoaula:  https://www.youtube.com/watch?v=CfWq7_cTd0A
+
+<hr/>
+<h3>Chamando app externa (Telefone, SMS, E-mail)</h3> 
+Projeto inicial:
+https://github.com/heliokamakawa/agenda_crud/tree/fa95a4da4b48410243bc8955c9c0fa56f3a74237<br>
+Projeto final:  
+
 aula como pegar o projeto no GitHub: https://www.youtube.com/watch?v=fOls6oc9ihU  <br>
 Link videoaula:  
+
+
 
 
 
