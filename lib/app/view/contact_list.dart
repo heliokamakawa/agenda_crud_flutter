@@ -81,7 +81,7 @@ class ContactList extends StatelessWidget {
                           child: Row(
                             children: [
                               iconEditButton((){
-                                _back.goToForm(context);
+                                _back.goToForm(context, contato);
                               }),
                               iconRemoveButton(context, (){
                                 _back.remove(contato.id);
