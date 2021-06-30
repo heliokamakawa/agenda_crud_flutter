@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006199549947",
+    "project_id": "agenda-cc407",
+    "storage_bucket": "agenda-cc407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006199549947:android:9f43a752c236194b24a55e",
+        "android_client_info": {
+          "package_name": "br.com.helio.agenda_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006199549947-ap9pp0chrjcc3t27j350p99eje1mcgcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpysPz1FeM2hJe-mmz9P886k7BMLuOBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006199549947-ap9pp0chrjcc3t27j350p99eje1mcgcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
