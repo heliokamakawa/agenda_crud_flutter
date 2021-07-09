@@ -1,6 +1,6 @@
 
 class Contact{
-  int id;
+  dynamic id;
   String nome;
   String telefone; 
   String email; 

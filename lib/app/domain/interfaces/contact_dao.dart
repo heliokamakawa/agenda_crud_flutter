@@ -6,7 +6,7 @@ abstract class ContactDAO{
 
   save(Contact contact); 
 
-  remove(int id); 
+  remove(dynamic id); 
 
   Future<List<Contact>> find();
 
