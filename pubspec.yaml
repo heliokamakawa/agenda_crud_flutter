@@ -32,6 +32,7 @@ dependencies:
   url_launcher: 5.7.10
   cloud_firestore: 
   firebase_core: 
+  http:
 
 
 
