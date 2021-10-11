@@ -6,15 +6,15 @@ import 'package:get_it/get_it.dart';
 class ContactService{
  var _dao = GetIt.I.get<ContactDAO>();
 // tem que salvar um contato, ter a possibilidade de alterar e excluir e listar todos os contatos
-save(Contact contact){
+save(Contact contact) async {
   validateName(contact.nome);
   validateEmail(contact.email);
   validatePhone(contact.telefone);
-  _dao.save(contact);
+   await _dao.save(contact);
 }
 
-remove(dynamic id){
-  _dao.remove(id);
+remove(dynamic id) async {
+    await _dao.remove(id);
 }
 
 Future<List<Contact>> find(){
